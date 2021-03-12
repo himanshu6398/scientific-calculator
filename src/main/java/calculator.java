@@ -2,12 +2,12 @@ import java.lang.Math;
 import java.math.BigInteger;
 import java.util.*;
 
-public class Calculator {
+public class calculator {
     public static void main(String args[])
     {
         int flag=0,ch,num;
         double num1,num2;
-        Calculator calc = new Calculator();
+        calculator calc = new calculator();
         Scanner reader = new Scanner(System.in);
         System.out.println("Scientific Calculator");
         do
@@ -76,19 +76,17 @@ public class Calculator {
     public double squareRoot(double N) {
         return Math.sqrt(N);
     }
-/*
-    public BigInteger factorial(double N)
-    {
-        // Initialize result
-        BigInteger f = new BigInteger("1"); // Or BigInteger.ONE
-
-        // Multiply f with 2, 3, ...N
-        for (int i = 2; i <= N; i++)
-            f = f.multiply(BigInteger.valueOf(i));
-
-        return f;
-    }
-*/
+    /*
+        public BigInteger factorial(double N)
+        {
+            // Initialize result
+            BigInteger f = new BigInteger("1"); // Or BigInteger.ONE
+            // Multiply f with 2, 3, ...N
+            for (int i = 2; i <= N; i++)
+                f = f.multiply(BigInteger.valueOf(i));
+            return f;
+        }
+    */
     public long factorial(double N) {
         long result = 1;
 

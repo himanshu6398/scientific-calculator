@@ -6,7 +6,7 @@ import static org.junit.Assert.assertNotEquals;
 public class calculatorTest {
 
     private static final double DELTA = 1e-15;
-    Calculator calc = new Calculator();
+    calculator calc = new calculator();
 
     @Test
     public void squareRootTruePositive(){
