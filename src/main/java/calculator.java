@@ -2,7 +2,15 @@ import java.lang.Math;
 import java.math.BigInteger;
 import java.util.*;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class calculator {
+    private static final Logger logger = LogManager.getLogger(calculator.class);
+
+    public calculator() {
+
+    }
     public static void main(String args[])
     {
         int flag=0,ch,num;
@@ -74,7 +82,10 @@ public class calculator {
     }
 
     public double squareRoot(double N) {
-        return Math.sqrt(N);
+        logger.info("[Square Root] - " + N + " ");
+        double result = Math.sqrt(N);
+        logger.info("[RESULT - Square Root] - " + result);
+        return result;
     }
     /*
         public BigInteger factorial(double N)
@@ -88,19 +99,27 @@ public class calculator {
         }
     */
     public long factorial(double N) {
+        logger.info("[Factorial] - "+N+"! ");
         long result = 1;
 
         for (int i = 2; i <= N; i++) {
             result *= i;
         }
+        logger.info("[RESULT - Factorial] - "+result);
         return result;
     }
 
     public double power(double b, double p) {
-        return Math.pow(b, p);
+        logger.info("[Power function] - "+ b +"^"+ p);
+        double result = Math.pow(b, p);
+        logger.info("[RESULT - Power function] - " + result);
+        return result;
     }
 
     public double naturalLog(double N) {
-        return Math.log(N);
+        logger.info("[Natural Log(base e)] - " + N + " ");
+        double result = Math.log(N);
+        logger.info("[RESULT - Natural Log(base e)] - " + result);
+        return result;
     }
 }
