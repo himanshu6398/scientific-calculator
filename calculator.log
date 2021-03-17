@@ -42,3 +42,65 @@
 13/Mar/2021:19:16:32 454 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 1.0000802576038383
 13/Mar/2021:19:16:43 839 [calculator.java] [INFO] calculator [Natural Log(base e)] - 2.71849 
 13/Mar/2021:19:16:43 840 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 1.0000765790979003
+14/Mar/2021:13:35:59 188 [calculator.java] [INFO] calculator [Factorial] - 5.0! 
+14/Mar/2021:13:35:59 193 [calculator.java] [INFO] calculator [RESULT - Factorial] - 120
+14/Mar/2021:13:35:59 194 [calculator.java] [INFO] calculator [Square Root] - 25.0 
+14/Mar/2021:13:35:59 194 [calculator.java] [INFO] calculator [RESULT - Square Root] - 5.0
+14/Mar/2021:13:35:59 195 [calculator.java] [INFO] calculator [Square Root] - 7.6 
+14/Mar/2021:13:35:59 195 [calculator.java] [INFO] calculator [RESULT - Square Root] - 2.756809750418044
+14/Mar/2021:13:35:59 196 [calculator.java] [INFO] calculator [Natural Log(base e)] - 10.0 
+14/Mar/2021:13:35:59 196 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 2.302585092994046
+14/Mar/2021:13:35:59 197 [calculator.java] [INFO] calculator [Square Root] - 25.0 
+14/Mar/2021:13:35:59 198 [calculator.java] [INFO] calculator [RESULT - Square Root] - 5.0
+14/Mar/2021:13:35:59 198 [calculator.java] [INFO] calculator [Square Root] - 7.6 
+14/Mar/2021:13:35:59 198 [calculator.java] [INFO] calculator [RESULT - Square Root] - 2.756809750418044
+14/Mar/2021:13:35:59 199 [calculator.java] [INFO] calculator [Natural Log(base e)] - 4.0 
+14/Mar/2021:13:35:59 199 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 1.3862943611198906
+14/Mar/2021:13:35:59 200 [calculator.java] [INFO] calculator [Factorial] - 5.0! 
+14/Mar/2021:13:35:59 200 [calculator.java] [INFO] calculator [RESULT - Factorial] - 120
+14/Mar/2021:13:35:59 202 [calculator.java] [INFO] calculator [Power function] - 4.0^2.0
+14/Mar/2021:13:35:59 202 [calculator.java] [INFO] calculator [RESULT - Power function] - 16.0
+14/Mar/2021:13:35:59 203 [calculator.java] [INFO] calculator [Power function] - 2.0^10.0
+14/Mar/2021:13:35:59 203 [calculator.java] [INFO] calculator [RESULT - Power function] - 1024.0
+17/Mar/2021:12:34:40 020 [calculator.java] [INFO] calculator [Square Root] - 45.0 
+17/Mar/2021:12:34:40 024 [calculator.java] [INFO] calculator [RESULT - Square Root] - 6.708203932499369
+17/Mar/2021:12:57:14 724 [calculator.java] [INFO] calculator [Factorial] - 5.0! 
+17/Mar/2021:12:57:14 868 [calculator.java] [INFO] calculator [RESULT - Factorial] - 120
+17/Mar/2021:12:57:14 873 [calculator.java] [INFO] calculator [Square Root] - 25.0 
+17/Mar/2021:12:57:14 875 [calculator.java] [INFO] calculator [RESULT - Square Root] - 5.0
+17/Mar/2021:12:57:14 877 [calculator.java] [INFO] calculator [Square Root] - 7.6 
+17/Mar/2021:12:57:14 879 [calculator.java] [INFO] calculator [RESULT - Square Root] - 2.756809750418044
+17/Mar/2021:12:57:14 882 [calculator.java] [INFO] calculator [Natural Log(base e)] - 10.0 
+17/Mar/2021:12:57:14 884 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 2.302585092994046
+17/Mar/2021:12:57:14 894 [calculator.java] [INFO] calculator [Square Root] - 25.0 
+17/Mar/2021:12:57:14 896 [calculator.java] [INFO] calculator [RESULT - Square Root] - 5.0
+17/Mar/2021:12:57:14 898 [calculator.java] [INFO] calculator [Square Root] - 7.6 
+17/Mar/2021:12:57:14 899 [calculator.java] [INFO] calculator [RESULT - Square Root] - 2.756809750418044
+17/Mar/2021:12:57:14 912 [calculator.java] [INFO] calculator [Natural Log(base e)] - 4.0 
+17/Mar/2021:12:57:14 914 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 1.3862943611198906
+17/Mar/2021:12:57:14 917 [calculator.java] [INFO] calculator [Factorial] - 5.0! 
+17/Mar/2021:12:57:14 918 [calculator.java] [INFO] calculator [RESULT - Factorial] - 120
+17/Mar/2021:12:57:14 921 [calculator.java] [INFO] calculator [Power function] - 4.0^2.0
+17/Mar/2021:12:57:14 923 [calculator.java] [INFO] calculator [RESULT - Power function] - 16.0
+17/Mar/2021:12:57:14 926 [calculator.java] [INFO] calculator [Power function] - 2.0^10.0
+17/Mar/2021:12:57:14 927 [calculator.java] [INFO] calculator [RESULT - Power function] - 1024.0
+17/Mar/2021:12:57:26 337 [calculator.java] [INFO] calculator [Factorial] - 5.0! 
+17/Mar/2021:12:57:26 342 [calculator.java] [INFO] calculator [RESULT - Factorial] - 120
+17/Mar/2021:12:57:26 344 [calculator.java] [INFO] calculator [Square Root] - 25.0 
+17/Mar/2021:12:57:26 345 [calculator.java] [INFO] calculator [RESULT - Square Root] - 5.0
+17/Mar/2021:12:57:26 346 [calculator.java] [INFO] calculator [Square Root] - 7.6 
+17/Mar/2021:12:57:26 347 [calculator.java] [INFO] calculator [RESULT - Square Root] - 2.756809750418044
+17/Mar/2021:12:57:26 348 [calculator.java] [INFO] calculator [Natural Log(base e)] - 10.0 
+17/Mar/2021:12:57:26 350 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 2.302585092994046
+17/Mar/2021:12:57:26 351 [calculator.java] [INFO] calculator [Square Root] - 25.0 
+17/Mar/2021:12:57:26 353 [calculator.java] [INFO] calculator [RESULT - Square Root] - 5.0
+17/Mar/2021:12:57:26 353 [calculator.java] [INFO] calculator [Square Root] - 7.6 
+17/Mar/2021:12:57:26 354 [calculator.java] [INFO] calculator [RESULT - Square Root] - 2.756809750418044
+17/Mar/2021:12:57:26 356 [calculator.java] [INFO] calculator [Natural Log(base e)] - 4.0 
+17/Mar/2021:12:57:26 357 [calculator.java] [INFO] calculator [RESULT - Natural Log(base e)] - 1.3862943611198906
+17/Mar/2021:12:57:26 358 [calculator.java] [INFO] calculator [Factorial] - 5.0! 
+17/Mar/2021:12:57:26 360 [calculator.java] [INFO] calculator [RESULT - Factorial] - 120
+17/Mar/2021:12:57:26 361 [calculator.java] [INFO] calculator [Power function] - 4.0^2.0
+17/Mar/2021:12:57:26 362 [calculator.java] [INFO] calculator [RESULT - Power function] - 16.0
+17/Mar/2021:12:57:26 365 [calculator.java] [INFO] calculator [Power function] - 2.0^10.0
+17/Mar/2021:12:57:26 366 [calculator.java] [INFO] calculator [RESULT - Power function] - 1024.0
